@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heylo 👋☁️
 
 I'm **[`Shamill`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**, a Future Ethical Hacker and Cybersecurity Enthusiast. Currently working toward the **Certified Ethical Hacker (CEH)** certification, I’m passionate about penetration testing, real-world security labs, and raising awareness through content creation. My mission is to build hands-on skills, explore ethical hacking, and contribute to a safer cyber world.
 
