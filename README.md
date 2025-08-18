@@ -1,6 +1,6 @@
 ## Heylo 👋☁️
 
-I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**, a Future Ethical Hacker and Cybersecurity Enthusiast. Currently working toward the **Certified Ethical Hacker (CEH)** certification, I’m passionate about penetration testing, real-world security labs, and raising awareness through content creation. My mission is to build hands-on skills, explore ethical hacking, and contribute to a safer cyber world.
+I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**, a Future Ethical Hacker and Cybersecurity Enthusiast. Currently working toward the **Certified Ethical Hacker (CEH) & WEB Penetration Tester Extreame (EWPTX)** certification, I’m passionate about penetration testing, real-world security labs, and raising awareness through content creation. My mission is to build hands-on skills, explore ethical hacking, and contribute to a safer cyber world.
 
 <a href="https://www.linkedin.com/in/shamill-shaanu-82224435b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/shamillshaanuh"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
