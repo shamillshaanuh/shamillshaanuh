@@ -50,7 +50,7 @@ I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Hash Cracking Tool](https://github.com/shamillshaanuh/PasswordCracker/)**    | A simple yet effective password cracking tool for educational and authorized security testing only |
+| **[Hash Cracking Tool](https://github.com/shamillshaanuh/PasswordCracker/)**    | A simple yet effective password cracking tool It supports multiple cracking modes such as Brute-Force and Dictionary Attack, making it useful for security students and penetration testers |
 | **[Project 2](https://github.com/)**    | PERSUING |
 | **[Project 3](https://github.com/)**    | PERSUING | 
 
