@@ -11,11 +11,13 @@ I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**
 - **Name**: Muhammed Shamil
 - **From**: India
 - **Aspiring Ethical Hacker** | **Beginner Security Researcher** | **Learning Penetration Testing**
-- Currently practicing on platforms like **VulnHub** and exploring tools like **Nmap**, **Hydra**, **Metasploit**, and **OpenVAS**
+-  Familiar with various security tools, including **Burp Suite** for web application testing, **Hydra** for brute force attacks, **httpx** and **cURL** for reconnaissance, **Nmap** for scanning, and Linux-based utilities for exploitation and automation. I use these tools in lab environments and CTFs to imitate threat actor methods. 
 - Continuously learning about **web vulnerabilities**, **network services**, and **real-world attack techniques**
 - Passionate about helping others by creating beginner-friendly cybersecurity resources
 - Exploring **Web3 attack vectors**, **mobile security**, and **browser extension threats**
 - Building a strong foundation for a career in **global cybersecurity**
+- I am exploring bug bounty methods and practicing with Capture the Flag (CTF) challenges in areas like Web Exploitation, Cryptography, Forensics, and Reverse Engineering.
+- Soft Skills: Excellent research and problem-solving skills combined with a dedication to lifelong learning. 
 
 </details>
 <br>
@@ -48,7 +50,7 @@ I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | PERSUING |
+| **[Hash Cracking Tool](https://github.com/shamillshaanuh/PasswordCracker/)**    | A simple yet effective password cracking tool for educational and authorized security testing only |
 | **[Project 2](https://github.com/)**    | PERSUING |
 | **[Project 3](https://github.com/)**    | PERSUING | 
 
