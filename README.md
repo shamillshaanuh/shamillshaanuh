@@ -1,6 +1,6 @@
 ## Heylo 👋☁️
 
-I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**,  Cybersecurity Enthusiast. Currently working toward the **Certified Ethical Hacker (CEH) & WEB Penetration Tester Extreame (EWPTX)** certification, I’m passionate about penetration testing, real-world security labs, and raising awareness through content creation. My mission is to build hands-on skills, explore ethical hacking, and contribute to a safer cyber world.
+I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**,  Cybersecurity Enthusiast. Currently working on Cybersecurity Researcher, I’m passionate about penetration testing, real-world security labs, and raising awareness through content creation. My mission is to build hands-on skills, explore ethical hacking, and contribute to a safer cyber world.
 
 <a href="https://www.linkedin.com/in/shamill-shaanu-82224435b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/shamillshaanuh"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -10,7 +10,7 @@ I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**
 
 - **Name**: Muhammed Shamil
 - **From**: India
-- **Cyber Security Researcher** | **Penetration Tester** | **Committed to Protect for a Better Future**
+- **CyberSecurity Researcher** | **Penetration Tester** | **Committed to Protect for a Better Future**
 -  Familiar with various security tools, including **Burp Suite** for web application testing, **Hydra** for brute force attacks, **httpx** and **cURL** for reconnaissance, **Nmap** for scanning, and Linux-based utilities for exploitation and automation. I use these tools in lab environments and CTFs to imitate threat actor methods. 
 - Continuously learning about **web vulnerabilities**, **network services**, and **real-world attack techniques**
 - Passionate about helping others by creating beginner-friendly cybersecurity resources
