@@ -48,8 +48,8 @@ I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Password Strength Checker](https://github.com/shamillshaanuh/password-strength-checker)**    | A Python CLI tool that evaluates password strength and gives improvement tips. Includes an option to generate strong passwords. |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[Project 1](https://github.com/)**    | PERSUING |
+| **[Project 2](https://github.com/)**    | PERSUING |
+| **[Project 3](https://github.com/)**    | PERSUING | 
 
 ---
