@@ -10,7 +10,7 @@ I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**
 
 - **Name**: Muhammed Shamil
 - **From**: India
-- **Aspiring Ethical Hacker** | **Beginner Security Researcher** | **Learning Penetration Testing**
+- **Cyber Security Researcher** | **Penetration Tester** | **Committed to Protect for a Better Future**
 -  Familiar with various security tools, including **Burp Suite** for web application testing, **Hydra** for brute force attacks, **httpx** and **cURL** for reconnaissance, **Nmap** for scanning, and Linux-based utilities for exploitation and automation. I use these tools in lab environments and CTFs to imitate threat actor methods. 
 - Continuously learning about **web vulnerabilities**, **network services**, and **real-world attack techniques**
 - Passionate about helping others by creating beginner-friendly cybersecurity resources
