@@ -2,7 +2,7 @@
 
 I'm **[`Muhammed Shamil`](https://shamiillshaanuh.github.io/shamillshaanu.io/)**,  Cybersecurity Enthusiast. Currently working on Cybersecurity Researcher, I’m passionate about penetration testing, real-world security labs, and raising awareness through content creation. My mission is to build hands-on skills, explore ethical hacking, and contribute to a safer cyber world.
 
-<a href="https://[www.linkedin.com/in/shamill-shaanu-82224435b](https://www.linkedin.com/in/muhammed-shamill-shaanu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammed-shamill-shaanu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/shamillshaanuh"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <details>
