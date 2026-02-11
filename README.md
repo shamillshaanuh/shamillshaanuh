@@ -1,9 +1,9 @@
 ## Heylo 👋☁️
 
 I'm **Muhammed Shamil**,
-<p1>Cybersecurity Researcher. Experienced and strong foundational knowledge in penetration testing and real-world security labs. Continuously advancing technical skills through CTF competitions, security research, and real-world lab environments. Highly motivated to identify, analyze, and mitigate emerging cyber threats with a strong commitment to continuous learning and effective problem-solving.</p1>
-<p2> Actively upskilling across multiple cybersecurity domains, including web and API penetration testing, Active Directory security, and red teaming fundamentals. Expanding knowledge in SOC operations, Android security basics, and emerging areas such as LLM pentesting and AI security to stay aligned with evolving threat landscapes and industry demands.
-</p2>
+<p>Cybersecurity Researcher. Experienced and strong foundational knowledge in penetration testing and real-world security labs. Continuously advancing technical skills through CTF competitions, security research, and real-world lab environments. Highly motivated to identify, analyze, and mitigate emerging cyber threats with a strong commitment to continuous learning and effective problem-solving.</p>
+<p> Actively upskilling across multiple cybersecurity domains, including web and API penetration testing, Active Directory security, and red teaming fundamentals. Expanding knowledge in SOC operations, Android security basics, and emerging areas such as LLM pentesting and AI security to stay aligned with evolving threat landscapes and industry demands.
+</p>
                  
                 
 <a href="https://www.linkedin.com/in/muhammed-shamill-shaanu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
