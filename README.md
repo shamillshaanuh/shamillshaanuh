@@ -34,7 +34,7 @@ I'm **Muhammed Shamil**,
 ![WiFi Pentesting](https://img.shields.io/badge/WiFi%20Pentesting-86%25-brightgreen?style=for-the-badge)
 ![API Pentesting](https://img.shields.io/badge/API%20Pentesting-65%25-yellow?style=for-the-badge)
 ![Mobile Pentesting](https://img.shields.io/badge/Mobile%20Pentesting-50%25-orange?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-70%25-purple?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-58%25-purple?style=for-the-badge)
 ![LLM Pentesting](https://img.shields.io/badge/LLM%20Pentesting-60%25-blue?style=for-the-badge)
 ![AI Security](https://img.shields.io/badge/AI%20Security-55%25-purple?style=for-the-badge)
 
@@ -69,13 +69,4 @@ I'm **Muhammed Shamil**,
 ---
 
 
-<h2 id="Projects" align=''> Projects </h2>
 
-
-| **Project**      | **Description**                                                                                  |
-|-------------------|--------------------------------------------------------------------------------------------------|
-| **[Hash Cracking Tool](https://github.com/shamillshaanuh/PasswordCracker/)**    | A simple yet effective password cracking tool It supports multiple cracking modes such as Brute-Force and Dictionary Attack, making it useful for security students and penetration testers |
-| **[Project 2](https://github.com/)**    | PERSUING |
-| **[Project 3](https://github.com/)**    | PERSUING | 
-
----
