@@ -30,11 +30,14 @@ I'm **Muhammed Shamil**,
 <h2 id="Skills" align=''>Skills </h2>
 
 ![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-80%25-success?style=for-the-badge)
+![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-75%25-blue?style=for-the-badge)
 ![WiFi Pentesting](https://img.shields.io/badge/WiFi%20Pentesting-86%25-brightgreen?style=for-the-badge)
 ![API Pentesting](https://img.shields.io/badge/API%20Pentesting-65%25-yellow?style=for-the-badge)
 ![Mobile Pentesting](https://img.shields.io/badge/Mobile%20Pentesting-50%25-orange?style=for-the-badge)
-![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-75%25-blue?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-70%25-purple?style=for-the-badge)
+![LLM Pentesting](https://img.shields.io/badge/LLM%20Pentesting-60%25-blue?style=for-the-badge)
+![AI Security](https://img.shields.io/badge/AI%20Security-55%25-purple?style=for-the-badge)
+
 
 
 
