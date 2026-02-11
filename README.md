@@ -21,7 +21,7 @@ I'm **Muhammed Shamil**,
 - Operational Familiarity with **Linux & Windows OS**
 - Exploring **Web3 attack vectors**, **mobile security**, and **browser extension threats**
 - Building a strong foundation for a career in **global cybersecurity**
-- I am exploring bug bounty methods and practicing with Capture the Flag (CTF) challenges in areas like Web Exploitation, Cryptography, Forensics, and Reverse Engineering.
+- Exploring bug bounty methods and practicing with Capture the Flag (CTF) challenges in areas like Web Exploitation, Cryptography, Forensics, and Reverse Engineering.
 - Soft Skills: Excellent research and problem-solving skills combined with a dedication to lifelong learning. 
 
 </details>
@@ -38,18 +38,25 @@ I'm **Muhammed Shamil**,
 
 
 
-<h2 id="Security Tools" align=''> Security Tools </h2>
+<h2 id="Security Tools" align=''> Technical Skill </h2>
 <br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=networkx&color=000000" alt="Networking" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
       <img src="https://img.shields.io/badge/Nessus-1976D2?style=for-the-badge&logo=tenable&color=000000" alt="Nessus" />
       <img src="https://img.shields.io/badge/OpenVAS-33CC33?style=for-the-badge&logo=openvas&color=000000" alt="OpenVAS" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&color=000000" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&color=000000" />
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&color=000000" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" />
+      <img src="https://img.shields.io/badge/BloodHound-BB2222?style=for-the-badge&color=000000" />
+      <img src="https://img.shields.io/badge/Mimikatz-8A2BE2?style=for-the-badge&color=000000" />
+
   </div>
 </div>
 
