@@ -1,8 +1,8 @@
 ## Heylo 👋☁️
 
 I'm **Muhammed Shamil**,
-Cybersecurity Researcher. Experienced and strong foundational knowledge in penetration testing and real-world security labs. Continuously advancing technical skills through CTF competitions, security research, and real-world lab environments. Highly motivated to identify, analyze, and mitigate emerging cyber threats with a strong commitment to continuous learning and effective problem-solving.
-Actively upskilling across multiple cybersecurity domains, including web and API penetration testing, Active Directory security, and red teaming fundamentals. Expanding knowledge in SOC operations, Android security basics, and emerging areas such as LLM pentesting and AI security to stay aligned with evolving threat landscapes and industry demands.
+                 Cybersecurity Researcher. Experienced and strong foundational knowledge in penetration testing and real-world security labs. Continuously advancing technical skills through CTF competitions, security research, and real-world lab environments. Highly motivated to identify, analyze, and mitigate emerging cyber threats with a strong commitment to continuous learning and effective problem-solving.
+                 Actively upskilling across multiple cybersecurity domains, including web and API penetration testing, Active Directory security, and red teaming fundamentals. Expanding knowledge in SOC operations, Android security basics, and emerging areas such as LLM pentesting and AI security to stay aligned with evolving threat landscapes and industry demands.
 
 <a href="https://www.linkedin.com/in/muhammed-shamill-shaanu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@shaamill1021"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -36,7 +36,7 @@ Actively upskilling across multiple cybersecurity domains, including web and API
 
 
 
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+<h2 id="Security Tools" align=''> Security Tools </h2>
 <br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
